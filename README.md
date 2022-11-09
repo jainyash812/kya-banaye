@@ -1,2 +1,3 @@
-# kya-banaye
-Created with CodeSandbox
+# Kya-Banaye
+
+An application for randomly selecting a dish. 
