@@ -12,7 +12,7 @@ const Home = ({ itemsForDinner }) => {
   return (
     <div className="home-container">
       <h1>
-        Aaj wanao
+        Aaj banaye
         <br />
         <span className="selected-item">
           {randomItemIndex >= 0
@@ -25,7 +25,7 @@ const Home = ({ itemsForDinner }) => {
         </span>
       </h1>
       <button onClick={randomItemSelector} className="button-1">
-        koi wanao??
+        kya banaye ??
       </button>
       <div>
         {/* Last 10 items:
